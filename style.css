@@ -5,15 +5,15 @@ body {
 }
 
 .kartu-profil {
-  width: 200px;
-  margin: 40px auto;
-  padding:20px;
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
   background-color:black;
-  border-radius:15px; /* membuat sudut menjadi melengkung*/
+  border-radius: 15px; /* membuat sudut menjadi melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   text-align: center;/*menengahkan semua teks di dalam kartu*/
 }
 .kartu0-profil img{
-  width: 160px;
-  border-radius: 50%; /*membuat gambar menjadi lingkran*/
+  width: 150px;
+  border-radius: 70%; /*membuat gambar menjadi lingkran*/
 }
