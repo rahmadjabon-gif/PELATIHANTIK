@@ -1,5 +1,5 @@
 // 1. pilih tombol berdasarkan id-nya
-const tombolKunjungiInstagramSaya = document.getElementById('KunjungiInstagramSaya');
-tombolKunjungiInstagramsaya.addEvenListener('click',function(){
+const tombolsapasaya! = document.getElementById('KunjungiInstagramSaya');
+tombolsapasaya!.addEvenListener('click',function(){
   alert('Halo! terimakasih dan sampai jumpa!');
 });
