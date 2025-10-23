@@ -15,5 +15,5 @@ body {
 }
 .kartu0-profil img{
   width: 150px;
-  border-radius: 70%; /*membuat gambar menjadi lingkran*/
+  border-radius: 70px; /*membuat gambar menjadi lingkran*/
 }
