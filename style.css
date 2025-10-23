@@ -8,7 +8,7 @@ body {
   width: 200px;
   margin: 40px auto;
   padding:20px;
-  background-color:white;
+  background-color:black;
   border-radius:15px; /* membuat sudut menjadi melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   text-align: center;/*menengahkan semua teks di dalam kartu*/
